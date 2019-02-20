@@ -1,6 +1,7 @@
-# Resolume6 Avenue 6 Japanese
+# Resolume 6 Japanese
 
-Resolume6 Avenue 6のGUIとヘルプの日本語化ファイルです。
+Resolume66のGUIとヘルプの日本語化ファイルです。
+※当初、 Avenueのみとしていましたが、Arenaも同様の設定ファイルになるためご利用可能です。
 
 ## バージョン
 ver 1.01
